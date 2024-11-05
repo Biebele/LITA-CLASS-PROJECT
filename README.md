@@ -1,3 +1,4 @@
-# LITA PROJECT
+# LITA CAPSTONE PROJECT
+
 
 https://github.com/Biebele
